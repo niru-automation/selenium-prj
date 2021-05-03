@@ -1,0 +1,8 @@
+<suite name="Wallethub" verbose="1" >
+  <test name="writeReview">
+    <classes>
+      <class name="assignment.wallethub.Assignment2"/>
+      <class name="assignment.wallethub.Assignment1"/>
+    </classes>
+  </test>
+</suite>
